@@ -75,14 +75,13 @@ Included fields (all optional except business name, client, and at least one ite
 ## 🛟 Support
 
 For product support or customizations, contact:  
-**youremail@example.com**
+**natalierobert1999@gmail.com**
 
 ---
 
 ## 📦 Licenses
 
 - For personal and small business use.  
-- Paid commercial licenses or SaaS/white-label branding available—please inquire!
 
 ---
 
